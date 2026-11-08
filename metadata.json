@@ -1,0 +1,6 @@
+{
+  "name": "Proyecto 5 — Desarrollo Web Full-Stack Empresarial",
+  "description": "Plataforma web empresarial de alto rendimiento con arquitectura Full-Stack en React, TypeScript y Node.js Express. Panel en tiempo real, control de acceso RBAC, persistencia SQL Server/MySQL, PM2 Cluster, Nginx y cumplimiento ISO 27001.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
